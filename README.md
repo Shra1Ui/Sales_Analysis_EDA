@@ -13,7 +13,7 @@ Provide actionable insights for marketing and sales strategies.
 
 **Data Sources**
 
-The project utilizes sales data from KAGGELE.The data includes information on product categories, sales volumes, regions, and customer demographics.
+The project utilizes sales data from KAGGLE.The data includes information on product categories, sales volumes, regions, and customer demographics.
 
 **Tools and Technologies**
 Python for data analysis (pandas, numpy)
